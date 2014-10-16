@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ccg:home|Door43 (ccg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ccg|d43-ccg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ccg/archive/master.zip|d43-ccg.zip]]
+
+**Recent Changes**
+{{changes>ns = ccg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ccg|Ethnologue data]]
+
